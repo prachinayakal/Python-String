@@ -1,5 +1,3 @@
-# Python-String
-Creating a simple String using Python
 # Python Strings
 
 This Python script demonstrates basic operations with strings, including creating strings, accessing characters, slicing, and updating strings.
